@@ -2,12 +2,12 @@ import { Avatar, Box, chakra, Flex, Icon, SimpleGrid, useColorModeValue, } from 
 
 const testimonials = [
     {
-        name: 'Aman Kumar',
+        name: 'Amit Meena',
         role: 'Fronted Web Developer',
         content:
             'This quiz web app is built using React JS. It can allow the user to select the criteria for their quiz from a list of options. The user can then proceed to answer the questions in the quiz and their performance will be tracked and shown in the scoreboard. Moreover, the app can be designed to be responsive and user-friendly.',
         avatar:
-            'https://res.cloudinary.com/drucd7zae/image/upload/v1722874113/WhatsApp_Image_2024-08-05_at_9.37.28_PM_d0yk0r.jpg',
+            'https://res.cloudinary.com/drucd7zae/image/upload/v1722940019/man-avatar-icon-free-vector_j2yeoh.jpg',
     }
 ];
 
